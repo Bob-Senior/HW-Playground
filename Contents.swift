@@ -5,7 +5,7 @@ var str = "Hello, playground"
 // MARK: - LESSON 1
  
 // EXERCISE 2.2
- 
+   
  let myAge = 25
 
 let YearsToAdd = 10
